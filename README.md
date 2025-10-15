@@ -50,6 +50,6 @@ http://localhost:8080
 
 ---
 
-AUTOR
-.WilliamG7.
-.Desarrollador web
+## AUTOR
+WilliamG7.<br>
+Desarrollador web
