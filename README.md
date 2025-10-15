@@ -51,5 +51,5 @@ http://localhost:8080
 ---
 
 AUTOR
-WilliamG7.
-Desarrollador web
+.WilliamG7.
+.Desarrollador web
