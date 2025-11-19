@@ -52,4 +52,4 @@ http://localhost:8080
 
 ## AUTOR
 WilliamG7.<br>
-Desarrollador web
+Desarrollador Multiplataforma
